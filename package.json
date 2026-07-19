@@ -1,0 +1,29 @@
+{
+  "name": "skills-mcp-server",
+  "version": "1.0.2",
+  "description": "An MCP server to search and discover tools on skills.sh",
+  "main": "build/index.js",
+  "type": "module",
+  "bin": {
+    "skills-mcp-server": "build/index.js"
+  },
+  "files": [
+    "build",
+    "agent_instructions.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "typescript": "^7.0.2"
+  }
+}
