@@ -60,6 +60,8 @@ class SkillsShServer {
       {
         capabilities: {
           tools: {},
+          resources: {},
+          prompts: {},
         },
       }
     );
