@@ -1,8 +1,10 @@
 # 🛠️ skills.sh MCP Server
 
-[![npm version](https://badge.fury.io/js/skills-mcp-server.svg)](https://badge.fury.io/js/skills-mcp-server)
+[![npm version](https://badge.fury.io/js/skills-mcp-server.svg)](https://www.npmjs.com/package/skills-mcp-server)
 
 An unofficial [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server for the [skills.sh](https://skills.sh) ecosystem. This server empowers your AI agents (like Claude Code, Antigravity-cli, or Cursor) to autonomously search, evaluate, and install the most relevant skills directly from the skills.sh catalog.
+
+📦 **NPM Package:** [skills-mcp-server](https://www.npmjs.com/package/skills-mcp-server)
 
 ---
 
